@@ -3,7 +3,7 @@
 * [Form CadEcommerce](#form CadEcommerc)
 * [Descrição](#descrição)
 * [Introdução](#introdução)
-* [SitesConsultados](#Sites-consultados)
+* [Sites Consultados](#Sites-consultados)
 * [Funcionalidades](#funcionalidades)
 * [Tecnologias Utilidades](#tecnologias-utilizadas)
 * [Fontes Consultadas](#fontes-consultadas)
@@ -16,17 +16,17 @@
 
 ## Introdução ✉️
 - Preenchimento de dados em um formulário de contatos
-![Formulário](img/capa1.png)
+
 
 ## Sites Consultados 
 - Os sites explorados nessa pesquisa foram:
-- Nike
-- Ebay
+- [Nike](https://www.nike.com.br/)
+- Mercado Livre
 - Amazon
-- Todos em busca de inspiração e variedade, que possiblitaram na criação do nosso próprio Formulário de Ecommerce 
+Todos em busca de inspiração e variedade, que possiblitaram na criação do nosso próprio Formulário de Ecommerce 
 
 ## Funcionalidades 🧠
-- Aprender a construir uma tabela de formulário de contatos em HTML5
+- Aprender a construir uma tabela de formulário para cadstro em sites de Ecommerce em HTML5
 
 ## Tecnologias Utilizadas 🖥️   
 - Visual Studio Code; 
