@@ -12,17 +12,17 @@
 # form-CadEcommerc
 
 ## Descrição 📖
-- Este projeto é um formulário de contato básico em HTML, criado como parte de um exercício de prática. Ele permite que os usuários preencham informações e enviem mensagens através do formulário. É uma ótima maneira de aprender os conceitos básicos de criação de formulários em HTML.
+- Este projeto consiste na criação de um site de cadastro de clientes, inspirado em elementos encontrados em três sites de e-commerce. O site permite aos usuários fornecer informações essenciais, como nome, endereço e detalhes de contato, simplificando o processo de registro. Este trabalho destina-se a demonstrar nossas habilidades em HTML e nossa capacidade de sintetizar informações de várias fontes para desenvolver uma solução única.
 
 ## Introdução ✉️
-- Preenchimento de dados em um formulário de contatos
+- Preenchimento de dados em um formulário de cadastro para compra em um site de Ecommerce
 
 
 ## Sites Consultados 
 - Os sites explorados nessa pesquisa foram:
 - [Nike](https://www.nike.com.br/)
-- Mercado Livre
-- Amazon
+- [Mercado Livre](https://www.mercadolivre.com.br/)
+- [Amazon](https://www.amazon.com.br/)
 Todos em busca de inspiração e variedade, que possiblitaram na criação do nosso próprio Formulário de Ecommerce 
 
 ## Funcionalidades 🧠
@@ -37,6 +37,7 @@ Todos em busca de inspiração e variedade, que possiblitaram na criação do no
 
 ## Fontes Consultadas 🔗
 - [mdn web docs_](https://developer.mozilla.org)
+- [boot strap](https://getbootstrap.com/)
 
 ## Autores 👥
 - [João Pedro Gonçalves](https://github.com/s-pedro13)
