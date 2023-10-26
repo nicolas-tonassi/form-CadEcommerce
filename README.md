@@ -23,7 +23,7 @@
 - [Nike](https://www.nike.com.br/)
 - [Mercado Livre](https://www.mercadolivre.com.br/)
 - [Amazon](https://www.amazon.com.br/)
-Todos em busca de inspiração e variedade, que possiblitaram na criação do nosso próprio Formulário de Ecommerce 
+- Todos em busca de inspiração e variedade, que possiblitaram na criação do nosso próprio Formulário de Ecommerce 
 
 ## Funcionalidades 🧠
 - Aprender a construir uma tabela de formulário para cadstro em sites de Ecommerce em HTML5
