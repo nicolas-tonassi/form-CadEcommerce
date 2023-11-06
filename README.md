@@ -18,6 +18,8 @@
 - Preenchimento de dados em um formulário de cadastro para compra em um site de Ecommerce
 
 
+
+
 ## Sites Consultados 
 - Os sites explorados nessa pesquisa foram:
 - [Nike](https://www.nike.com.br/)
@@ -31,12 +33,10 @@
 ## Tecnologias Utilizadas 🖥️   
 - Visual Studio Code; 
 - CSS3; 
-- HTML5; 
-- mdn_; 
+- HTML5;
 - Github; 
 
 ## Fontes Consultadas 🔗
-- [mdn web docs_](https://developer.mozilla.org)
 - [boot strap](https://getbootstrap.com/)
 
 ## Autores 👥
