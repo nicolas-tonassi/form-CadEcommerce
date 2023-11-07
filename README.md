@@ -34,11 +34,6 @@
 ## Tecnologias Utilizadas 🖥️   
 - Visual Studio Code; 
 - CSS3; 
-<<<<<<< HEAD
-- HTML5; 
-=======
-- HTML5;
->>>>>>> 106f7ea31ab0edd4aff5108d4fcf14f2fc2cb3de
 - Github; 
 
 ## Fontes Consultadas 🔗
