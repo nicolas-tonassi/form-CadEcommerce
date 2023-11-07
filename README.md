@@ -1,6 +1,6 @@
 # indice
 
-* [Form CadEcommerce](#form CadEcommerc)
+* [Form CadEcommerce](#form CadEcommerce)
 * [Descrição](#descrição)
 * [Introdução](#introdução)
 * [Sites Consultados](#Sites-consultados)
@@ -9,14 +9,14 @@
 * [Fontes Consultadas](#fontes-consultadas)
 * [Autores](#autores)
 
-# form-CadEcommerc
+# form-CadEcommerce
 
 ## Descrição 📖
 - Este projeto consiste na criação de um site de cadastro de clientes, inspirado em elementos encontrados em três sites de e-commerce. O site permite aos usuários fornecer informações essenciais, como nome, endereço e detalhes de contato, simplificando o processo de registro. Este trabalho destina-se a demonstrar nossas habilidades em HTML e nossa capacidade de sintetizar informações de várias fontes para desenvolver uma solução única.
 
 ## Introdução ✉️
 - Preenchimento de dados em um formulário de cadastro para compra em um site de Ecommerce
-
+![Formulário](image.png)
 
 ## Sites Consultados 
 - Os sites explorados nessa pesquisa foram:
@@ -32,11 +32,9 @@
 - Visual Studio Code; 
 - CSS3; 
 - HTML5; 
-- mdn_; 
 - Github; 
 
 ## Fontes Consultadas 🔗
-- [mdn web docs_](https://developer.mozilla.org)
 - [boot strap](https://getbootstrap.com/)
 
 ## Autores 👥
