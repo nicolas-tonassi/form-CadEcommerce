@@ -16,7 +16,7 @@
 
 ## Introdução ✉️
 - Preenchimento de dados em um formulário de cadastro para compra em um site de Ecommerce
-![Formulário](image.png)
+![form](image.png)
 
 ## Sites Consultados 
 - Os sites explorados nessa pesquisa foram:
