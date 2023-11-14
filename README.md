@@ -17,7 +17,7 @@
 ## Introdução ✉️
 - Preenchimento de dados em um formulário de cadastro para compra em um site de Ecommerce
 
-<img src="cadastro.png">
+<img src="imagem-cad.png">
 
 
 
