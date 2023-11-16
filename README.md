@@ -35,9 +35,9 @@
 - Visual Studio Code; 
 - CSS3; 
 - Github; 
-- Git 
-- Boot Strap
-- HTML5
+- Git;
+- Boot Strap;
+- HTML5;
 
 ## Fontes Consultadas 🔗
 - [boot strap](https://getbootstrap.com/)
