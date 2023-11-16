@@ -17,7 +17,7 @@
 ## Introdução ✉️
 - Preenchimento de dados em um formulário de cadastro para compra em um site de Ecommerce
 
-<img src="imagem-cad.png">
+<img src= "img/imagem-cadastro.png">
 
 
 
@@ -29,12 +29,15 @@
 - Todos em busca de inspiração e variedade, que possiblitaram na criação do nosso próprio Formulário de Ecommerce 
 
 ## Funcionalidades 🧠
-- Aprender a construir uma tabela de formulário para cadstro em sites de Ecommerce em HTML5
+- Aprender a construir formulário para cadstro em sites de Ecommerce em HTML5
 
 ## Tecnologias Utilizadas 🖥️   
 - Visual Studio Code; 
 - CSS3; 
 - Github; 
+- Git 
+- Boot Strap
+- HTML5
 
 ## Fontes Consultadas 🔗
 - [boot strap](https://getbootstrap.com/)
